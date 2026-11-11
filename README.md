@@ -2,8 +2,8 @@
 
 Estudante de Informática | Tecnologia da Informação
 
-<<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Tecnologia+da+Informação;Sempre+aprendendo+e+evoluindo!" alt="Texto animado de apresentação" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Tecnologia+da+Informa%C3%A7%C3%A3o;Sempre+aprendendo+e+evoluindo!" alt="Texto animado de apresentação" />
 </p>
 
 ---
