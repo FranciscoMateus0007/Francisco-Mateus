@@ -7,7 +7,7 @@ Olá! Meu nome é Francisco Mateus e sou estudante de Informática pelo SENAI. T
 Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar minha experiência por meio de estudos e projetos práticos. Meu objetivo é evoluir profissionalmente e construir uma base sólida na área de TI.
 
 <p align="left">
-    <a href="https://github.com/SEU-USUARIO?tab=followers">
+    <a href="https://github.com/FranciscoMateus0007?tab=followers">
         <img 
             alt="Seguidores" 
             title="Seguidores do GitHub" 
