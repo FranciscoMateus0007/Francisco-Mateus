@@ -35,6 +35,7 @@ Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
     />
+    
     <img 
         alt="Windows" 
         title="Sistemas operacionais" 
@@ -42,6 +43,7 @@ Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
     />
+    
     <img 
         alt="Redes" 
         title="Redes de computadores" 
@@ -49,6 +51,7 @@ Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" 
     />
+    
     <img 
         alt="Git" 
         title="Git" 
@@ -56,6 +59,7 @@ Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
+    
     <img 
         alt="GitHub" 
         title="GitHub" 
@@ -63,6 +67,7 @@ Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
     />
+    
 </p>- 💻 Hardware e manutenção de computadores.
 - ⚙️ Sistemas operacionais.
 - 🌐 Redes de computadores.
