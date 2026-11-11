@@ -4,7 +4,9 @@ Estudante de Informática | Tecnologia da Informação
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Tecnologia+da+Informação;Sempre+aprendendo%2C+sempre+evoluindo." alt="Apresentação animada" />
-</p>---
+</p>
+
+---
 
 🧑‍💻 Sobre mim
 
