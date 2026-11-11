@@ -1,73 +1,112 @@
 # Francisco Mateus
 
-Estudante de Informática | Tecnologia da Informação
+"Estudante de Informática | Tecnologia da Informação"
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=60&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Tecnologia+da+Informa%C3%A7%C3%A3o;Sempre+aprendendo+e+evoluindo!" alt="Texto animado de apresentação" />
+Olá! Meu nome é Francisco Mateus e sou estudante de Informática pelo SENAI. Tenho interesse na área de Tecnologia da Informação, especialmente em hardware e manutenção, sistemas operacionais, redes de computadores e segurança da informação.
+
+Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar minha experiência por meio de estudos e projetos práticos. Meu objetivo é evoluir profissionalmente e construir uma base sólida na área de TI.
+
+<p align="left">
+    <a href="https://github.com/SEU-USUARIO?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Seguidores do GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/SEU-USUARIO?tab=repositories&sort=stargazers">
+        <img 
+            alt="Estrelas" 
+            title="Estrelas dos repositórios" 
+            src="https://custom-icon-badges.demolab.com/github/stars/SEU-USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
 </p>
 
 ---
 
-🧑‍💻 Sobre mim
+🛠️ Áreas de Conhecimento
 
-Olá! Meu nome é Francisco Mateus.
-
-Sou estudante de Informática e estou em desenvolvimento na área de Tecnologia da Informação. Tenho interesse em compreender o funcionamento dos computadores, sistemas e redes, buscando ampliar meus conhecimentos técnicos e desenvolver novas habilidades.
-
-Meu objetivo é construir uma base sólida em TI, adquirir experiência prática e evoluir profissionalmente por meio de estudos e projetos.
-
----
-
-🛠️ Áreas de conhecimento
-
-Área| Interesse e conhecimentos
-💻 Hardware| Componentes, montagem e manutenção de computadores
-⚙️ Sistemas Operacionais| Funcionamento e configuração de sistemas
-🌐 Redes de Computadores| Fundamentos de redes e conectividade
-🔐 Segurança da Informação| Conceitos de proteção, segurança e boas práticas
+<p align="left">
+    <img 
+        alt="Hardware" 
+        title="Hardware e manutenção" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+    />
+    <img 
+        alt="Windows" 
+        title="Sistemas operacionais" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+    />
+    <img 
+        alt="Redes" 
+        title="Redes de computadores" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" 
+    />
+    <img 
+        alt="Git" 
+        title="Git" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <img 
+        alt="GitHub" 
+        title="GitHub" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    />
+</p>- 💻 Hardware e manutenção de computadores.
+- ⚙️ Sistemas operacionais.
+- 🌐 Redes de computadores.
+- 🔐 Fundamentos de segurança da informação.
 
 ---
 
 🎓 Formação
 
-- Curso Técnico em Informática — SENAI
+- SENAI — Técnico em Informática
 - Formação em andamento.
-- Desenvolvimento contínuo de conhecimentos em Tecnologia da Informação.
 
 ---
 
-🚀 Projetos
+📂 Projetos
 
-Este espaço será utilizado para apresentar meus projetos, atividades práticas e experiências desenvolvidas durante minha formação.
+Aqui apresentarei meus projetos, atividades práticas e estudos relacionados à Tecnologia da Informação.
 
-Projeto| Descrição| Status
-📁 Meu Portfólio| Apresentação profissional no GitHub| Em desenvolvimento
-💻 Projetos de Informática| Atividades práticas relacionadas à TI| Em desenvolvimento
-🌐 Estudos de Redes| Exercícios e experimentos de redes| Planejado
+Projeto| Descrição
+💻 Projetos de Informática| Atividades práticas da formação
+🌐 Estudos de Redes| Fundamentos e experimentos de redes
+⚙️ Sistemas Operacionais| Estudos e configurações de sistemas
 
 Novos projetos serão adicionados conforme minha evolução.
 
 ---
 
-📚 Atualmente estudando
+📊 Estatísticas do GitHub
 
-- Fundamentos de hardware e manutenção.
-- Sistemas operacionais.
-- Redes de computadores.
-- Fundamentos de segurança da informação.
+<p>
+    <img 
+        align="left" 
+        alt="Estatísticas do GitHub" 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    /><img 
+    align="left" 
+    alt="Linguagens mais utilizadas" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+/>
 
----
-
-📫 Contato
-
-<p align="left">
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>---
+</p><br clear="both"/>---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-00F7FF?style=flat-square" alt="Status"/>
-  <br/>
-  <i>"A tecnologia evolui constantemente. O aprendizado também deve evoluir."</i>
+    <i>"O conhecimento é construído através da curiosidade e da prática."</i>
 </p>
