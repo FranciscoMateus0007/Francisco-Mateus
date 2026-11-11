@@ -105,7 +105,9 @@ Novos projetos serão adicionados conforme minha evolução.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
 />
 
-</p><br clear="both"/>---
+</p><br clear="both"/>
+
+---
 
 <p align="center">
     <i>"O conhecimento é construído através da curiosidade e da prática."</i>
