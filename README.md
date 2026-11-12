@@ -1,4 +1,4 @@
-# Francisco Mateus
+Francisco Mateus
 
 "Estudante de Informática | Tecnologia da Informação"
 
@@ -7,7 +7,7 @@ Olá! Meu nome é Francisco Mateus e sou estudante de Informática pelo SENAI. T
 Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar minha experiência por meio de estudos e projetos práticos. Meu objetivo é evoluir profissionalmente e construir uma base sólida na área de TI.
 
 <p align="left">
-    <a href="https://github.com/FranciscoMateus0007?tab=followers">
+    <a href="https://github.com/SEU-USUARIO?tab=followers">
         <img 
             alt="Seguidores" 
             title="Seguidores do GitHub" 
@@ -35,7 +35,6 @@ Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
     />
-    
     <img 
         alt="Windows" 
         title="Sistemas operacionais" 
@@ -43,7 +42,6 @@ Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
     />
-    
     <img 
         alt="Redes" 
         title="Redes de computadores" 
@@ -51,7 +49,6 @@ Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" 
     />
-    
     <img 
         alt="Git" 
         title="Git" 
@@ -59,7 +56,6 @@ Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
-    
     <img 
         alt="GitHub" 
         title="GitHub" 
@@ -67,8 +63,9 @@ Atualmente, estou desenvolvendo meus conhecimentos técnicos e buscando ampliar 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
     />
-    
-</p>- 💻 Hardware e manutenção de computadores.
+</p>
+
+- 💻 Hardware e manutenção de computadores.
 - ⚙️ Sistemas operacionais.
 - 🌐 Redes de computadores.
 - 🔐 Fundamentos de segurança da informação.
